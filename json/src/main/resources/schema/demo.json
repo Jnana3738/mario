@@ -1,0 +1,11 @@
+{"person": {
+  "name": "Krish",
+  "age": "7",
+  "cars": {
+    "car": [
+      {"brand": "Nissan", "color: white"},
+      {"brand": "Hyundai", "color: gray"}
+
+      }
+  }
+}

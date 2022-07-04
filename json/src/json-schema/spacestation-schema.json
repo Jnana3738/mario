@@ -1,0 +1,15 @@
+{
+  "title": "JSON",
+  "description" : "This is a sample JSON file",
+  "type" : "object",
+  "properties" : {
+    "name" : {
+      "type" : "string",
+      "description" : "This is the name of the person"
+    },
+    "class" : {
+      "type" : "integer",
+      "description" : "This is the grade"
+    }
+  }
+}
